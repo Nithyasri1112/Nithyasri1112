@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F0FA,50:E9DFF2,100:DCCDEB&height=180&section=header&text=Nithyasri&fontSize=50&fontColor=665477&animation=fadeIn&fontAlignY=35" width="100%"/>
 
