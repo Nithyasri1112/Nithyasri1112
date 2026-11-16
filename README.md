@@ -1,18 +1,18 @@
-<div align="center">
+\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Nithyasri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:9b59b6,100\:e84393&height=190&section=header&text=Nithyasri&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35](https://capsule-render.vercel.app/api?type=waving\&color=0:667eea,50:9b59b6,100\:e84393\&height=190\&section=header\&text=Nithyasri\&fontSize=52\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35)"/>
 
-### Master's Student in Artificial Intelligence
+### 🎓 Tech Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Enthusiast;Curious+Learner+%7C+Continuous+Learner;Exploring+Technology+and+Innovation"/>
+\<img src="[https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Enthusiast;Curious+Learner+%7C+Continuous+Learner;Exploring+Technology+and+Innovation](https://readme-typing-svg.demolab.com?font=Georgia\&size=20\&duration=3000\&pause=1000\&color=9B59B6\&center=true\&vCenter=true\&width=550\&lines=AI+%26+Data+Science+Enthusiast;Curious+Learner+%7C+Continuous+Learner;Exploring+Technology+and+Innovation)"/>
 
-</div>
+\</div>
 
 ---
 
 ## 🌷 About Me
 
-Hello! I'm Nithyasri, a Computer Science graduate currently pursuing my Master's in Artificial Intelligence.
+Hello! I'm **Nithyasri**, a Computer Science graduate currently pursuing my Master's in Artificial Intelligence.
 
 I enjoy learning about new technologies, exploring different areas of computing, and applying my knowledge through practical projects.
 
@@ -27,125 +27,148 @@ I enjoy learning about new technologies, exploring different areas of computing,
 
 ## 🎓 Education
 
-| Qualification | Institution | Details |
-|---|---|---|
-| Master's in Artificial Intelligence | Pumo Technovation, Coimbatore | Pursuing |
-| B.E. Computer Science and Engineering | Vivekanandha College of Engineering for Women | CGPA: 8.6 |
-| Higher Secondary (12th) | Your School Name | Your Percentage |
-| SSLC (10th) | Your School Name | Your Percentage |
+\<div align="center">
+
+| 🎓 Qualification                      | 🏫 Institution                                | 📌 Details  |
+| :------------------------------------ | :-------------------------------------------- | :---------- |
+| Master's in Artificial Intelligence   | Pumo Technovation, Coimbatore                 | 🟢 Pursuing |
+| B.E. Computer Science and Engineering | Vivekanandha College of Engineering for Women | ⭐ 8.6 CGPA  |
+| Higher Secondary (12th)               | Kongunadu Metric Higher Secondary School      | 🏆 89%      |
+| SSLC (10th)                           | Kongunadu Metric Higher Secondary School      | 🏆 96%      |
+
+\</div>
 
 ---
 
 ## 💻 Technical Skills
 
-**Programming & Database**
+### 🐍 Programming & Database
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
+\<p>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)"/>
+\</p>
 
-**Data Analysis & Visualization**
+### 📊 Data Analysis & Visualization
 
-<p>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+\<p>
+\<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge\&logo=python\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge\&logo=python\&logoColor=white)"/>
+\</p>
 
-**Development Environment**
+### 🛠️ Development Environment
 
-<p>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-</p>
+\<p>
+\<img src="[https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)"/>
+\</p>
 
 ---
 
 ## 🚀 Projects
 
-<table>
-<tr>
-<td width="50%">
+\<div align="center">
 
 ### 🍔 FoodFlow 360
 
-Food Delivery Analytics
+**Food Delivery Analytics**
 
-- Exploratory Data Analysis
-- Customer behaviour analysis
-- SQL-based data analysis
-- Dashboard visualization
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/EDA-Analysis-9B59B6?style=flat-square](https://img.shields.io/badge/EDA-Analysis-9B59B6?style=flat-square)"/>
 
-</td>
-<td width="50%">
+\</div>
+
+Exploring food delivery data through exploratory data analysis, customer behaviour analysis, SQL queries and dashboard visualization.
+
+---
+
+\<div align="center">
 
 ### 💳 Credit Card Fraud Detection
 
-Machine Learning Project
+**Machine Learning Based Detection**
 
-- Data preprocessing
-- Logistic Regression
-- Random Forest
-- Flask application
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)"/>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+\</div>
+
+A machine learning project focused on identifying fraudulent credit card transactions using data preprocessing, Logistic Regression and Random Forest algorithms.
+
+---
+
+\<div align="center">
 
 ### 😊 Emotion Detection System
 
-- Image processing
-- CNN-based classification
-- Facial emotion recognition
+**Facial Emotion Classification**
 
-</td>
-<td width="50%">
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/CNN-Deep%20Learning-8E44AD?style=flat-square](https://img.shields.io/badge/CNN-Deep%20Learning-8E44AD?style=flat-square)"/>
 
-### 🚗 Vehicle Health Monitoring
+\</div>
 
-- Arduino-based monitoring
-- Sensor integration
-- Adaptive speed control
-
-</td>
-</tr>
-</table>
+A facial emotion recognition project using image processing and Convolutional Neural Networks to classify emotions.
 
 ---
 
-## 🌱 Beyond Technology
+\<div align="center">
 
-- Continuous Learning
-- Adaptability
-- Team Collaboration
-- Problem Solving
-- Taking Responsibility
+### 🚗 Integrated Vehicle Health Management System
+
+**Object Sensing & Adaptive Speed Control**
+
+\<img src="[https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white](https://img.shields.io/badge/Arduino-00979D?style=flat-square\&logo=arduino\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/IoT-2C3E50?style=flat-square](https://img.shields.io/badge/IoT-2C3E50?style=flat-square)"/>
+\<img src="[https://img.shields.io/badge/Sensors-Monitoring-16A085?style=flat-square](https://img.shields.io/badge/Sensors-Monitoring-16A085?style=flat-square)"/>
+
+\</div>
+
+An Arduino-based vehicle monitoring system integrating multiple sensors for vehicle health monitoring, obstacle detection and adaptive speed control.
 
 ---
 
-## 📬 Let's Connect
+## 🌱 Personal Qualities
 
-<div align="center">
+\<div align="center">
 
-<a href="https://www.linkedin.com/in/nithyasri-p-11b97029a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+\<img src="[https://img.shields.io/badge/Continuous%20Learning-8E44AD?style=for-the-badge](https://img.shields.io/badge/Continuous%20Learning-8E44AD?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/Adaptability-3498DB?style=for-the-badge](https://img.shields.io/badge/Adaptability-3498DB?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/Teamwork-16A085?style=for-the-badge](https://img.shields.io/badge/Teamwork-16A085?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/Responsibility-E67E22?style=for-the-badge](https://img.shields.io/badge/Responsibility-E67E22?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/Enthusiasm-E84393?style=for-the-badge](https://img.shields.io/badge/Enthusiasm-E84393?style=for-the-badge)"/>
 
-<a href="https://github.com/Nithyasri1112">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+\</div>
 
-</div>
+---
 
-<br>
+## 📬 Connect With Me
 
-<div align="center">
+\<div align="center">
 
-*Learning with curiosity, growing with experience.* 🌸
+\<a href="[https://www.linkedin.com/in/nithyasri-p-11b97029a/](https://www.linkedin.com/in/nithyasri-p-11b97029a/)">
+\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
+\</a>
 
-</div>
+\<a href="[https://github.com/Nithyasri1112](https://github.com/Nithyasri1112)">
+\<img src="[https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge\&logo=github\&logoColor=white)"/>
+\</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+\</div>
+
+\<br>
+
+\<div align="center">
+
+### 🌸 Learning with curiosity, growing with experience.
+
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:9b59b6,100\:e84393&height=110&section=footer](https://capsule-render.vercel.app/api?type=waving\&color=0:667eea,50:9b59b6,100\:e84393\&height=110\&section=footer)"/>
+
+\</div>
