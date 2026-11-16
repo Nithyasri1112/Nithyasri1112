@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Nithyasri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Nithyasri P&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<h3>✨ AI & Data Science Enthusiast ✨</h3>
+<h3> AI & Data Science Enthusiast!</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=550&lines=Exploring+Artificial+Intelligence;Learning+Through+Projects;Curious+About+Technology;Growing+With+Every+Experience"/>
 
@@ -12,7 +12,7 @@
 
 ## 🌷 About Me
 
-Hello! I'm **Nithyasri**, a Computer Science graduate currently pursuing my Master's in Artificial Intelligence.
+Hello! I'm **Nithyasri**, a Computer Science graduate currently pursuing my Master's course in Artificial Intelligence,Coimbatore.
 
 I enjoy learning about new technologies, exploring different areas of computing, and applying my knowledge through practical projects.
 
