@@ -1,7 +1,4 @@
-<img src="https://img.shields.io/badge/Learn-Explore-GhostWhite?style=flat-square&labelColor=E6E0F8&color=C8B6E2"/>
 
-</div>
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F0FA,50:E9DFF2,100:DCCDEB&height=180&section=header&text=Nithyasri&fontSize=50&fontColor=665477&animation=fadeIn&fontAlignY=35" width="100%"/>
 
@@ -184,3 +181,4 @@ I enjoy learning about new technologies, exploring different areas of computing,
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5F0FA,50:E9DFF2,100:DCCDEB&height=100&section=footer" width="100%"/>
+<img src="https://img.shields.io/badge/Learn-Explore-GhostWhite?style=flat-square&labelColor=E6E0F8&color=C8B6E2"/>
