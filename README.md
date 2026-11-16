@@ -181,3 +181,18 @@ I enjoy learning about new technologies, exploring different areas of computing,
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20&height=3&section=footer" width="85%"/>
+
+<h3>💜 Thank You for Visiting My Profile!</h3>
+
+<i>Exploring, learning and growing every day.</i>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Learn-Explore-GhostWhite?style=flat-square&labelColor=E6E0F8&color=C8B6E2"/>
+
+</div>
