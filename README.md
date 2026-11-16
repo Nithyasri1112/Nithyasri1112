@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Nithyasri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=180&section=header&text=Nithyasri&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-### Master's Student in Artificial Intelligence
+<h3>✨ AI & Data Science Enthusiast ✨</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=550&lines=AI+%26+Data+Science+Enthusiast;Curious+Learner+%7C+Continuous+Learner;Exploring+Technology+and+Innovation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&width=550&lines=Exploring+Artificial+Intelligence;Learning+Through+Projects;Curious+About+Technology;Growing+With+Every+Experience"/>
 
 </div>
 
@@ -12,7 +12,7 @@
 
 ## 🌷 About Me
 
-Hello! I'm Nithyasri, a Computer Science graduate currently pursuing my Master's in Artificial Intelligence.
+Hello! I'm **Nithyasri**, a Computer Science graduate currently pursuing my Master's in Artificial Intelligence.
 
 I enjoy learning about new technologies, exploring different areas of computing, and applying my knowledge through practical projects.
 
@@ -28,24 +28,24 @@ I enjoy learning about new technologies, exploring different areas of computing,
 ## 🎓 Education
 
 | Qualification | Institution | Details |
-|---|---|---|
-| Master's in Artificial Intelligence | Pumo Technovation, Coimbatore | Pursuing |
-| B.E. Computer Science and Engineering | Vivekanandha College of Engineering for Women | CGPA: 8.6 |
-| Higher Secondary (12th) | Your School Name | Your Percentage |
-| SSLC (10th) | Your School Name | Your Percentage |
+|:---|:---|:---|
+| Master's in Artificial Intelligence | Pumo Technovation, Coimbatore | 🟢 Pursuing |
+| B.E. Computer Science and Engineering | Vivekanandha College of Engineering for Women | ⭐ 8.6 CGPA |
+| Higher Secondary (12th) | Kongunadu Metric Higher Secondary School | 🏆 89% |
+| SSLC (10th) | Kongunadu Metric Higher Secondary School | 🏆 96% |
 
 ---
 
 ## 💻 Technical Skills
 
-**Programming & Database**
+**🐍 Programming & Database**
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-**Data Analysis & Visualization**
+**📊 Data Analysis & Visualization**
 
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -54,7 +54,7 @@ I enjoy learning about new technologies, exploring different areas of computing,
 <img src="https://img.shields.io/badge/Seaborn-76B7B2?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**Development Environment**
+**🛠️ Development Environment**
 
 <p>
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -67,11 +67,17 @@ I enjoy learning about new technologies, exploring different areas of computing,
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍔 FoodFlow 360
+<h3 align="center">🍔 FoodFlow 360</h3>
 
-Food Delivery Analytics
+<p align="center"><b>Food Delivery Analytics</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/EDA-9370DB?style=flat-square"/>
+</p>
 
 - Exploratory Data Analysis
 - Customer behaviour analysis
@@ -79,11 +85,19 @@ Food Delivery Analytics
 - Dashboard visualization
 
 </td>
-<td width="50%">
 
-### 💳 Credit Card Fraud Detection
+<td width="50%" valign="top">
 
-Machine Learning Project
+<h3 align="center">💳 Credit Card Fraud Detection</h3>
+
+<p align="center"><b>Machine Learning Project</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+</p>
 
 - Data preprocessing
 - Logistic Regression
@@ -92,19 +106,37 @@ Machine Learning Project
 
 </td>
 </tr>
-<tr>
-<td width="50%">
 
-### 😊 Emotion Detection System
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">😊 Emotion Detection System</h3>
+
+<p align="center"><b>Facial Emotion Classification</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+</p>
 
 - Image processing
 - CNN-based classification
 - Facial emotion recognition
 
 </td>
-<td width="50%">
 
-### 🚗 Vehicle Health Monitoring
+<td width="50%" valign="top">
+
+<h3 align="center">🚗 Vehicle Health Monitoring</h3>
+
+<p align="center"><b>Object Sensing & Adaptive Speed Control</b></p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/IoT-2C3E50?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sensors-16A085?style=flat-square"/>
+</p>
 
 - Arduino-based monitoring
 - Sensor integration
@@ -118,11 +150,15 @@ Machine Learning Project
 
 ## 🌱 Beyond Technology
 
-- Continuous Learning
-- Adaptability
-- Team Collaboration
-- Problem Solving
-- Taking Responsibility
+<div align="center">
+
+<img src="https://img.shields.io/badge/Continuous%20Learning-9370DB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Adaptability-667EEA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Team%20Collaboration-9B59B6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem%20Solving-E67E22?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsibility-E84393?style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -138,14 +174,10 @@ Machine Learning Project
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br>
-
-<div align="center">
-
-*Learning with curiosity, growing with experience.* 🌸
+<i>Learning with curiosity, growing with experience.</i> 🌸
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
